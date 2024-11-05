@@ -27,3 +27,8 @@
 <p>Here you are given an input of quantity first based on quantity you need to get the age's of those passengers if age>30 add cost of 50 if age<12 add cost of 20 else add 60 to the cost and finnaly return the total cost</p>
 <h4>Output : </h4>
 <img src="https://github.com/user-attachments/assets/5c2ae2ce-d81e-4e9d-9f88-cca50e373db9" alt="Output"/>
+
+<h3>5.Seating Arrangement</h3>
+<p>In a seating arrangement array when the alloted number is odd then add one space (i.e., 0 after him) otherwise if even add 2 spaces after him in a classroom.</p>
+<h4>Output : </h4>
+<img src="https://github.com/user-attachments/assets/39abbca5-8ff1-4d78-8de8-c1ba32641272" alt="Output"/>

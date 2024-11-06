@@ -1,4 +1,4 @@
-package microsoftIntern;
+package menutotal;
 
 import java.util.Scanner;
 

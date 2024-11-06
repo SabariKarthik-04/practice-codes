@@ -1,4 +1,4 @@
-package microsoftIntern;
+package ticketbooking;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package microsoftIntern;
+package redgreenpen;
 
 import java.util.Scanner;
 

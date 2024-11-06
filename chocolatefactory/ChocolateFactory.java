@@ -1,4 +1,4 @@
-package microsoftIntern;
+package chocolatefactory;
 
 import java.util.ArrayList;
 import java.util.Scanner;

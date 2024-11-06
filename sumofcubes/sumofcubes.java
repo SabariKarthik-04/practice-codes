@@ -1,4 +1,4 @@
-package microsoftIntern;
+package sumofcubes;
 
 import java.util.Scanner;
 
